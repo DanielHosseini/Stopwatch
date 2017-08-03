@@ -31,7 +31,6 @@ namespace StopWatch
         public void GetDuration(){
 
             Console.WriteLine("The Stopwatch has been running in total {0}", Duration = Start - Stop);
-            Console.WriteLine("Testing visual studio version control");
         }
     }
 }
